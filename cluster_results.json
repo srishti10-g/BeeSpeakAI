@@ -1,0 +1,184 @@
+{
+  "cluster_labels": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    0,
+    2,
+    0,
+    2,
+    2,
+    0,
+    2,
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    0
+  ],
+  "cluster_profiles": {
+    "0": {
+      "fundamental_freq_mean": {
+        "mean": -0.7127070906450628,
+        "std": 0.8249381959987562
+      },
+      "fundamental_freq_std": {
+        "mean": 0.11721664508880436,
+        "std": 0.2424843571844825
+      },
+      "harmonic_noise_ratio": {
+        "mean": -0.9896759088273488,
+        "std": 0.6393682996495356
+      },
+      "activity_ratio": {
+        "mean": -0.17656589348205703,
+        "std": 0.057880440937318735
+      },
+      "spectral_centroid_mean": {
+        "mean": -0.17659629682075792,
+        "std": 1.1920110275944102
+      },
+      "rms_energy": {
+        "mean": 0.48002349084406254,
+        "std": 1.0372762511326894
+      },
+      "zero_crossing_rate": {
+        "mean": 0.7723504985250691,
+        "std": 0.7740422222542144
+      },
+      "inferred_status": "Queenless - Irregular Pattern"
+    },
+    "1": {
+      "fundamental_freq_mean": {
+        "mean": 0.08345599830576618,
+        "std": NaN
+      },
+      "fundamental_freq_std": {
+        "mean": 6.843796501485516,
+        "std": NaN
+      },
+      "harmonic_noise_ratio": {
+        "mean": -2.384176592262317,
+        "std": NaN
+      },
+      "activity_ratio": {
+        "mean": 7.064057809498634,
+        "std": NaN
+      },
+      "spectral_centroid_mean": {
+        "mean": 1.77206328322903,
+        "std": NaN
+      },
+      "rms_energy": {
+        "mean": 3.8202836087895937,
+        "std": NaN
+      },
+      "zero_crossing_rate": {
+        "mean": -3.2463167332547203,
+        "std": NaN
+      },
+      "inferred_status": "Stressed - Agitated Activity"
+    },
+    "2": {
+      "fundamental_freq_mean": {
+        "mean": 0.30306143889629084,
+        "std": 0.9491764775529925
+      },
+      "fundamental_freq_std": {
+        "mean": -0.24577274793764525,
+        "std": 0.17312215189836894
+      },
+      "harmonic_noise_ratio": {
+        "mean": 0.4922661492763585,
+        "std": 0.6949255510809906
+      },
+      "activity_ratio": {
+        "mean": -0.12615912592193657,
+        "std": 0.028433684390526272
+      },
+      "spectral_centroid_mean": {
+        "mean": 0.025053747688066563,
+        "std": 0.8989792368408628
+      },
+      "rms_energy": {
+        "mean": -0.3148753134700165,
+        "std": 0.6511478636074353
+      },
+      "zero_crossing_rate": {
+        "mean": -0.23825544984632327,
+        "std": 0.7884976618788974
+      },
+      "inferred_status": "Queenless - Irregular Pattern"
+    }
+  },
+  "feature_names": [
+    "spectral_centroid_mean",
+    "spectral_centroid_std",
+    "spectral_rolloff_mean",
+    "spectral_bandwidth_mean",
+    "spectral_flatness_mean",
+    "zero_crossing_rate",
+    "rms_energy",
+    "rms_energy_std",
+    "amplitude_envelope_mean",
+    "amplitude_envelope_std",
+    "mfcc_1_mean",
+    "mfcc_1_std",
+    "mfcc_2_mean",
+    "mfcc_2_std",
+    "mfcc_3_mean",
+    "mfcc_3_std",
+    "mfcc_4_mean",
+    "mfcc_4_std",
+    "mfcc_5_mean",
+    "mfcc_5_std",
+    "fundamental_freq_mean",
+    "fundamental_freq_std",
+    "harmonic_noise_ratio",
+    "activity_ratio"
+  ],
+  "audio_files": [
+    "WhatsApp Audio 2025-11-22 at 14.32.48.mp3"
+  ],
+  "analysis_summary": {
+    "total_samples": 1,
+    "optimal_clusters": 3,
+    "features_used": 0
+  }
+}
