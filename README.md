@@ -1,6 +1,10 @@
 # BeeSpeakAI :
 AI Powered Bee Health Recognition System Using Humming Sound Of Bees
 # 🐝 BEESPEAK AI – Bee Health Analysis System
+<p align="center">
+  <img src="dashboard.png" width="100%" alt="BeeSpeakAI dashboard"/>
+  
+</p>
 
 ## 📌 Overview
 BeeSpeak AI is a machine learning-based system designed to analyze bee hive health using audio signals.  
